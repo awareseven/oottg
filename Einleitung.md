@@ -1,0 +1,10 @@
+Einleitung
+============
+
+## Willkommen zum Open Operational Technology Testing Guide (OOTTG)!
+
+Ein Security Testing Guide ist ein unverzichtbares Werkzeug für den Prozess zur Qualitätssicherung, insbesondere in Bezug auf IT-Sicherheit. Durch sorgfältiges Testen können Schwachstellen und Sicherheitslücken in Produkten identifiziert werden, bevor sie zu einem Sicherheitsrisiko für Endanwender werden. Ein standardisierter Security Testing Guide bietet dabei eine umfassende und praxisnahe Anleitung zum Testen von Produkten und ist somit ein wichtiger Bestandteil eines erfolgreichen Sicherheitskonzepts. Mit dem Open Operational Technology Testing Guide (OOTTG) wird ein solcher Standard für Security Testing vorgestellt, der sich speziell auf die Identifikation von Sicherheitslücken in OT konzentriert.
+
+Zur Operational Technology zählen Software und Hardware die zur Überwachung und Steuerung von industriellen Anlagen oder physischer Maschinen und ihrer Prozesse dienen. In Abgrenzung zur IT, welche hauptsächlich mit Software und Daten arbeitet, nutzt die OT Hardware- und Software-Systeme, um Prozesse in der physischen Welt zu steuern und zu automatisieren. In der OT geht es darum, reale Prozesse und Maschinen zu überwachen und zu steuern, während die IT sich auf die Verwaltung und Analyse von Daten und Informationen konzentriert. Angesichts der Industrie 4.0 und dem industriellen Internet der Dinge (IIoT) wird die Unterscheidung von OT- und IT-Systemen jedoch immer schwieriger und erfordert eine integrierte und ganzheitliche Betrachtung der Prozesse und Systeme.
+
+Im Zuge dieser Entwicklung werden (vernetzte) OT-Systeme immer anfälliger für Cyberangriffe. Ein umfassendes Sicherheitskonzept, das speziell auf die Anforderungen von OT-Systemen ausgerichtet ist, ist daher unverzichtbar, um Angriffe zu verhindern und die Zuverlässigkeit von Industrie- und Produktionsprozessen sicherzustellen. Der OOTTG stellt einen zuverlässigen Prüfplan für die Überprüfung eines solchen Sicherheitskonzeptes bereit.
