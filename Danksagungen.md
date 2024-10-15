@@ -11,3 +11,5 @@ oder über andere Wege zu diesem Projekt beigetragen haben:
 * Vincent Reckendrees
 * Steffen Thamm
 * Tim Barsch
+
+Dieses Projekt ist teilweise finanziert durch das Bundesministerium für Bildung und Forschung im Projekt DigiFit und UbiTrans.
